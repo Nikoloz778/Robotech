@@ -2,6 +2,6 @@
 homework=input("Task ")
 
 I=int(input("Enter I: "))
-t=int(input("enter t: "))
+t=int(input("Enter t: "))
 q=I*t
 print(f"q = {float(q)}")
