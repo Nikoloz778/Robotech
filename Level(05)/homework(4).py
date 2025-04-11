@@ -1,5 +1,5 @@
 #4) თუ წრეში დენის ძალა 3A-ია და ის მიედინება 20 წამი, რამდენია ამ დროს გასული მუხტი?
-homework=input("Task ")
+print("Task 4")
 
 I=int(input("Enter I: "))
 t=int(input("Enter t: "))

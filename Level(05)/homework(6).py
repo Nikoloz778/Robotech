@@ -1,5 +1,5 @@
 #  6) 50A დენი მიედინება 2 წუთი. იპოვე გასული მუხტი. (გაითვალისწინე, რომ დრო უნდა იყოს წამებში!)
-homework=input("Task ")
+print("Task 6")
 
 I=int(input("Enter I: "))
 t=int(input("Enter t: "))

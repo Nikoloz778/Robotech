@@ -1,5 +1,5 @@
 # 5) 10Ω წინაღობაზე 20V ძაბვაა მიწოდებული. იპოვე წრეში გამავალი დენი
-homework=input("Task ")
+print("Task 5")
 
 resistance=int(input("Enter R: "))
 volt=int(input("Enter V: "))
